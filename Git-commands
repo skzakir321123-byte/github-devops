@@ -1,0 +1,11 @@
+it push origin master
+clear
+git push origin master
+clear
+history
+clear
+git status
+git add Git-commands
+git commit -m Git-commands
+clear
+This is some new changes
